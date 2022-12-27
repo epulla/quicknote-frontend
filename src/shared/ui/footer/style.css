@@ -1,0 +1,9 @@
+#epulla {
+    text-decoration: none;
+    color: inherit;
+    transition: 0.3s;
+}
+
+#epulla:hover {
+    font-size: larger;
+}
